@@ -1,5 +1,5 @@
 # Amanda Koster
-Seattle, WA | (206) 390-1057 | amanda@amandakoster.com
+Seattle, WA  amanda@amandakoster.com
 * [LinkedIn](https://www.linkedin.com/in/amandakoster/)
 * [GitHub](https://github.com/amandakoster)
 
