@@ -29,13 +29,16 @@ ENDO TRACKS REST API: JULY 2017
 
 HELIOS SUN TRACKER: May 2017
 * https://github.com/amandakoster/helios
-* A sun tracker that pulls data from a US Navy API
+* Helios uses data from the US Naval Observatory to accurately depict the position of the sun at any location on Earth.
 * JavaScript, CSS, CSS, HTML, Node.js, Handlebars.js, Naval API
 
 ###### EXPERIENCE
-CODE FELLOWS BOOTCAMP: MERN STACK
-Graduate: 2017
-Certificate - Advanced Software Development in Full-Stack JavaScript
+LOOKFITFEEL,  Jr. Full Stack Javascript Dev / UX
+AUGUST 2017 - PRESENT
+Organize existing PHP code base into one repo team wide. [Git, GitHub, Bitbucket]
+Build prototypes and lead customer testing to inform web and mobile app design and functionality. [Balsamiq, Sketch].
+Build iterative feature designs that are validated by customer feedback and live-site A/B tests. 
+Build Full Stack mobile app.  [React Native, Mongo, Express, Node]
 
 AMAZON, Sr. Content Producer
 2015 - 2016
@@ -53,9 +56,6 @@ MICROSOFT, Content Strategist, Producer, and Project Manager
 * Created multimedia tutorials and online content modules for eLearning to support various software applications.
 * Utilized Articulate Storyline and Quizmaker eLearning development tools to create technology-­based learning modules for critical certifications.
 * Led team of producers. Worked directly with Microsoft clients, software engineers, and Academy.
-
-AMANDA KOSTER PRODUCTIONS, LLC, 2005- CURRENT
-* Award-winning content producer for magazines and advertising campaigns: Newsweek, The New York Times, The Wall Street Journal, Wired, Fortune, Costco, Procter & Gamble, American Airlines, Delta Airlines, and others.
 
 RESOURCES ONLINE: CARE (Computer-Assisted Risk Education),
 Content Producer and Project Manager, 2007 - 2011
