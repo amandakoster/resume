@@ -35,10 +35,10 @@ HELIOS SUN TRACKER: May 2017
 ###### EXPERIENCE
 LOOKFITFEEL,  Jr. Full Stack Javascript Dev / UX
 AUGUST 2017 - PRESENT
-Organize existing PHP code base into one repo team wide. [Git, GitHub, Bitbucket]
-Build prototypes and lead customer testing to inform web and mobile app design and functionality. [Balsamiq, Sketch].
-Build iterative feature designs that are validated by customer feedback and live-site A/B tests. 
-Build Full Stack mobile app.  [React Native, Mongo, Express, Node]
+* Organize existing PHP code base into one repo team wide. [Git, GitHub, Bitbucket]
+* Build prototypes and lead customer testing to inform web and mobile app design and functionality. [Balsamiq, Sketch].
+* Build iterative feature designs that are validated by customer feedback and live-site A/B tests. 
+* Build Full Stack mobile app.  [React Native, Mongo, Express, Node]
 
 AMAZON, Sr. Content Producer
 2015 - 2016
