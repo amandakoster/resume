@@ -16,7 +16,7 @@ JavaScript (0-1 years), HTML(3+ years), CSS-SASS (3+ years)
 
 ###### CODE PROJECTS
 GOURMET SWAP (IN PROGRESS):  August  2017
-* Heroku: https://gourmet-swap-frontend.herokuapp.com/
+* Heroku: https://gourmet-swap-frontend.herokuapp.com/landing
 * frontend: https://github.com/amandakoster/GourmetSwap-frontend
 * backend: https://github.com/0smium/GourmetSwap-backend
 Gourmet Swap is an online platform for connecting local chefs and their neighbors. React front-end is server agnostic and relies on an independent RESTful API backend utilizing the Express web application framework on Node.JS with the MongoDB NoSQL database server.
