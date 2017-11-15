@@ -33,9 +33,9 @@ HELIOS SUN TRACKER: May 2017
 * JavaScript, CSS, CSS, HTML, Node.js, Handlebars.js, Naval API
 
 ###### EXPERIENCE
-LOOKFITFEEL,  Jr. Full Stack Javascript Dev / UX
+FITMODI,  Jr. Full Stack Javascript Dev / UX
 AUGUST 2017 - PRESENT
-* Organize existing PHP code base into one repo team wide. [Git, GitHub, Bitbucket]
+* Organize existing PHP code base into one repo team wide. [Git, GitHub]
 * Build prototypes and lead customer testing to inform web and mobile app design and functionality. [Balsamiq, Sketch].
 * Build iterative feature designs that are validated by customer feedback and live-site A/B tests. 
 * Build Full Stack mobile app.  [React Native, Mongo, Express, Node]
