@@ -33,9 +33,9 @@ HELIOS SUN TRACKER: May 2017
 * JavaScript, CSS, CSS, HTML, Node.js, Handlebars.js, Naval API
 
 ###### EXPERIENCE
-FITMODI,  Jr. Full Stack Javascript Dev / UX
+LookFitFeel,  Jr. Full Stack Javascript Dev / UX
 AUGUST 2017 - PRESENT
-* Redesign and rebuild existing UI into a fully responsive site partly resulting in a cost-per-click decrease from 39¢ to 28¢.
+* Redesign and rebuild existing UI into a fully responsive site partly resulting in a cost-per-click decrease of 11%.
 * Implemented cookie-based A/B testing that resulted in an increased click-through rate.
 * Organize existing PHP codebase into one effective repo team-wide. [Git, GitHub, Bitbucket]
 * Build prototypes and lead customer testing to inform web and mobile app design and functionality. [Balsamiq, Sketch, paper, and pen]
