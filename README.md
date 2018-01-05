@@ -37,12 +37,13 @@ LookFitFeel,  Jr. Full Stack Javascript Dev / UX
 SEPTEMBER 2017 - PRESENT
 Results: 
 * 1-month: Design future Full Stack mobile app. [React Native, Mongo, Express, Node]1-month: Design future Full Stack mobile app. [React Native, Mongo, Express, Node]
-* 1-month: Design future Full Stack mobile app. [React Native, Mongo, Express, Node]2-months: Develop new content standards for Reviews
+* 1-month: Design future Full Stack mobile app. [React Native, Mongo, Express, Node]
+* 2-months: Develop new content standards for Reviewers
 * 3-months: Redesign and rebuild existing UI into a fully responsive site partly resulting in a cost-per-click decrease of 11%.
 * 3-months: Build iterative feature designs that are validated by customer feedback and live-site A/B tests. 
 * 3-months: Implemented cookie-based A/B testing that resulted in an increased click-through rate.
 * 3-months: Build prototypes and lead customer testing to inform web and mobile app design and functionality. [Balsamiq, Sketch, paper, and pen]
-* 3-months: rebuild entire deployment workflow to prepare for scaling
+* 3-months: rebuild entire deployment workflow to prepare for scaling.
 * Ongoing: Organize existing PHP codebase into one effective repo team-wide. [Git, GitHub, Bitbucket]
 
 AMAZON, Sr. Content Producer
