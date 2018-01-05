@@ -35,10 +35,13 @@ HELIOS SUN TRACKER: May 2017
 ###### EXPERIENCE
 FITMODI,  Jr. Full Stack Javascript Dev / UX
 AUGUST 2017 - PRESENT
-* Organize existing PHP code base into one repo team wide. [Git, GitHub]
-* Build prototypes and lead customer testing to inform web and mobile app design and functionality. [Balsamiq, Sketch].
+* Redesign and rebuild existing UI into a fully responsive site partly resulting in a cost-per-click decrease from 39¢ to 28¢.
+* Implemented cookie-based A/B testing that resulted in an increased click-through rate.
+* Organize existing PHP codebase into one effective repo team-wide. [Git, GitHub, Bitbucket]
+* Build prototypes and lead customer testing to inform web and mobile app design and functionality. [Balsamiq, Sketch, paper, and pen]
 * Build iterative feature designs that are validated by customer feedback and live-site A/B tests. 
-* Build Full Stack mobile app.  [React Native, Mongo, Express, Node]
+* Develop new content standards for Reviews
+* Design, Build, User Test future Full Stack mobile app. [React Native, Mongo, Express, Node]
 
 AMAZON, Sr. Content Producer
 2015 - 2016
