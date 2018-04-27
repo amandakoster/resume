@@ -34,7 +34,7 @@ HELIOS SUN TRACKER: May 2017
 
 ###### EXPERIENCE
 
-Microsoft, Microsoft Azure Blockchain, JR Software Development Engineer (Contract)
+MICROSOFT, Microsoft Azure Blockchain, JR Software Development Engineer (Contract)
 March 2018 – Present
 Front-end web UI development: REACT / REDUX / NODE
 
