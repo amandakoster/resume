@@ -7,7 +7,7 @@ Seattle, WA  | amanda@amandakoster.com
 Jr. Full Stack Javascript Developer | MERN Stack: React | UX | UI. UX-minded and hailing from a creative, visual background. Proven results for disruptive ideas for how to conceive, create and deploy compelling digital experiences. 2x TEDx speaker and Ignite speaker, and Web 2.0 keynote and other high-profile events. Focused on bridging the gap between UX, Design, and Code. Passionate about building the future of visual experiences with collaborative teams that focus on user needs.
 
 ###### PROGRAMMING LANGUAGES:
-JavaScript (0-1 years), HTML(3+ years), CSS-SASS (3+ years)
+JavaScript (1 year), HTML(3+ years), CSS-SASS (3+ years)
 
 ###### TECHNOLOGIES
 * 1 year: REACT, REACT NATIVE, Redux, Webpack, ES6, Node, Mongo DB, Express,  JQuery,  AJAX/JSON, REST API, Postman, Linux CLI, GitHub, Atom. Familiar with server-side web technologies such as Unix/Linux, PHP, MySQL, MongoDB, MVC Frameworks.
