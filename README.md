@@ -10,7 +10,7 @@ Jr. Full Stack Javascript Developer | MERN Stack: React | UX | UI. UX-minded and
 JavaScript (0-1 years), HTML(3+ years), CSS-SASS (3+ years)
 
 ###### TECHNOLOGIES
-* 0-1 years: REACT, REACT NATIVE, Redux, Webpack, ES6, Node, Mongo DB, Express,  JQuery,  AJAX/JSON, REST API, Postman, Linux CLI, GitHub, Atom. Familiar with server-side web technologies such as Unix/Linux, PHP, MySQL, MongoDB, MVC Frameworks.
+* 1 years: REACT, REACT NATIVE, Redux, Webpack, ES6, Node, Mongo DB, Express,  JQuery,  AJAX/JSON, REST API, Postman, Linux CLI, GitHub, Atom. Familiar with server-side web technologies such as Unix/Linux, PHP, MySQL, MongoDB, MVC Frameworks.
 * 3 + years: UX, Responsive Design, DOM Manipulation, HTML Templating, Bootstrap, Basecamp, Asana, Balsamiq, Sketch,
 * 8+ years: Adobe CC, Photo/Video/Audio production, 360 video production
 
