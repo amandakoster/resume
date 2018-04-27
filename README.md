@@ -33,8 +33,20 @@ HELIOS SUN TRACKER: May 2017
 * JavaScript, CSS, CSS, HTML, Node.js, Handlebars.js, Naval API
 
 ###### EXPERIENCE
+
+Microsoft, Microsoft Azure Blockchain, JR Software Development Engineer (Contract)
+March 2018 – Present
+Front-end web UI development: REACT / REDUX / NODE
+
+Technologies and projects:
+* Build original React/Redux components 
+* Implement Adobe Xd UX red-lines and prototypes
+* Implement a new Microsoft-wide Design System
+* Make multiple Node.js backend API integrations
+* Work alongside UX Designers and Back-end Engineers on extremely tight deadlines.
+
 LookFitFeel,  Jr. Full Stack Javascript Dev / UX
-SEPTEMBER 2017 - PRESENT
+SEPTEMBER 2017 - MARCH 2018
 Results: 
 * 1-month: Designed future Full Stack mobile app. [React Native, Mongo, Express, Node]
 * 2-months: Developed new content standards for Reviewers
