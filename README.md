@@ -14,31 +14,14 @@ JavaScript (1 year), HTML(3+ years), CSS-SASS (3+ years)
 * 3 + years: UX, Responsive Design, DOM Manipulation, HTML Templating, Bootstrap, Basecamp, Asana, Balsamiq, Sketch,
 * 8+ years: Adobe CC, Photo/Video/Audio production, 360 video production
 
-###### CODE PROJECTS
-GOURMET SWAP (IN PROGRESS):  August  2017
-* Heroku: https://gourmet-swap-frontend.herokuapp.com/landing
-* frontend: https://github.com/amandakoster/GourmetSwap-frontend
-* backend: https://github.com/0smium/GourmetSwap-backend
-Gourmet Swap is an online platform for connecting local chefs and their neighbors. React front-end is server agnostic and relies on an independent RESTful API backend utilizing the Express web application framework on Node.JS with the MongoDB NoSQL database server.
-JavaScript/REACT, Express, MongoDB, Node, Sass
-
-ENDO TRACKS REST API: JULY 2017
-* https://github.com/amandakoster/endo-tracks
-* EndoTracks provides an infrastructure and data persistence using the reliable and proven standards of a RESTful API.
-* JavaScript, Express. js. Node.js, Mongo.js
-
-HELIOS SUN TRACKER: May 2017
-* https://github.com/amandakoster/helios
-* Helios uses data from the US Naval Observatory to accurately depict the position of the sun at any location on Earth.
-* JavaScript, CSS, CSS, HTML, Node.js, Handlebars.js, Naval API
-
 ###### EXPERIENCE
-
 MICROSOFT, Microsoft Azure Blockchain, JR Software Development Engineer (Contract)
 March 2018 – Present
 Front-end web UI development: REACT / REDUX / NODE
 
 Technologies and projects:
+* Part of a three-person team tasked with developing and perfecting the UI for the Azure Blockchain App Builder application that was presented by Microsoft CEO Satya Nadella at the 2018 Microsoft Build Conference
+* De facto Design Integrator working with UI/UX Designers to create and deploy pixel-perfect design elements
 * Build original React/Redux components 
 * Implement Adobe Xd UX red-lines and prototypes
 * Implement a new Microsoft-wide Design System
