@@ -15,6 +15,16 @@ JavaScript (1 year), HTML(3+ years), CSS-SASS (3+ years)
 * 8+ years: Adobe CC, Photo/Video/Audio production, 360 video production
 
 ###### EXPERIENCE
+IQVIA Jul 2018 – Present
+Front-End Engineer: REACT / REDUX / NODE / SASS / JEST / ENZYME / D3
+
+* Week-1: authored 7 successful unit tests, Week-2: authored and merged 1 original component, Month-1: authored and merged 4 original components.
+* Build, test and deploy React component library for use with current and newly acquired products world-wide.
+* Build data visualization React components with D3.js
+* Conceptualize architecture, style, localization, and standards for reusable component library for consumption with large data sets.
+* Accessibility and unit-test evangelist See less
+
+
 MICROSOFT, Microsoft Azure Blockchain, JR Software Development Engineer (Contract)
 March 2018 – Present
 Front-end web UI development: REACT / REDUX / NODE
